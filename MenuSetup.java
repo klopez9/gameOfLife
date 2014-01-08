@@ -365,8 +365,8 @@ public class MenuSetup {
           model.setAnimation(false);
           JOptionPane.showMessageDialog(null,
           		"Game of Life created by John Horton Conway\n" +
-          		"Program created by Kevin 'K-LO' Lopez\n" +
-          		"Special Thanks to Phil Dexter and Prof. Lander", "About",
+          		"Program written by Kevin 'K-LO' Lopez,\n" +
+          		"Phil Dexter and Dr. Les Lander", "About",
           		JOptionPane.PLAIN_MESSAGE);
           model.setAnimation(true);
       }       
